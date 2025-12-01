@@ -1,0 +1,11 @@
+pandas
+numpy
+spacy
+pdfminer.six
+python-docx
+scikit-learn
+gensim
+streamlit
+pyngrok
+matplotlib
+seaborn
